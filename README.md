@@ -7,6 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is my first post on my Github Pages. can you view this?
+
+
+#This is my **second** post. can you view this too?
+## Booya.
+How do I move on to my _third_ post?
 
 ```markdown
 Syntax highlighted code block
